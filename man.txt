@@ -1,3 +1,0 @@
-This is a man file
-This is 3rc commit line
-This is 4th commit leine
